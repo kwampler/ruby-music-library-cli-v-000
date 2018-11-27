@@ -45,7 +45,4 @@ class Artist
     end
     genres.uniq
   end
-
-
-
 end
